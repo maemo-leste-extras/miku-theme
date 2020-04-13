@@ -1,0 +1,25 @@
+Source: miku-theme
+Section: user/desktop
+Priority: optional
+Maintainer: joppu <joppu1@gmail.com>
+Build-Depends: debhelper (>= 4.0.0), hildon-theme-layout-5 (>= 0.15.0), hildon-theme-layout-5 (< 0.16.0), hildon-theme-tools, imagemagick
+Standards-Version: 3.6.0
+
+Package: miku-theme
+Architecture: all
+Depends: gtk2-engines-sapwood (>= 3.1.1), hildon-theme-cacher (>= 0.3.0)
+Description: Teal/cyan theme with fancy transparencies and drop shadows
+XSBC-Bugtracker: https://garage.maemo.org/projects/joppu-themes
+XSBC-Maemo-Display-Name: Miku Theme
+XB-Maemo-Icon-26:
+ iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+ AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHtSURB
+ VGiB7Zm7TutAFEXXBMgNAgtLJFdKQYOAhgaJD6CBfAOi8TfdniYFt6YOP4GgAlokSyFICALkQWYo
+ jicxD4sCKWNHsxpbdrO395kZaVsZYygyJdcCfos34BpvwDXzWS+UUmqaQn7CZGyXKv08Ea2QZOyV
+ 5N4FVpxO7jXiZSx6bCARXwLKwB+gAiwAc7g1MAKGQA/oAwNAWxPKGJMWvwiEQA2oAgFiyNVa0Yjg
+ J6AD3AEPwCuJCbsGFCI0ZHl5k6ODiJ2tBqth3YXqL9w/xJxft/h/1qTbvUFS6QNjAyVkbGoc7kfs
+ 7UYAvI2c6P3CSlBnbzdCGzg+/Qd0kbHS86nxqQBVttcbjLRLudlsrzeAEyAGXmCyjSpkwQaEQZ1R
+ Tr78Z8KgjqzLBZKNJW1gDijn9utPKJPaGdMHmYxS/g3YMwr47iTO6/hk8I2B3CfwAZ+Aa3wCrplF
+ A36EpopPwDWzaMCP0FTxCbhmphKQ5iv/CdiWDpgYsA3YoAAGBohWAx8NDIEnHrsxS4v5KLQ+8/wa
+ Iy3dEGvAGGOUUhrpHjvctltsrEUOZWZz224hFWMPGaVxAhqp6u64uGpiNPytNliq5COJ515Mu9Pi
+ 8qaJ9KN9EgOFL3dno163FPoHR1Ep/E8+b8A13oBrCm/gHQOx4I1OyUJlAAAAAElFTkSuQmCC=

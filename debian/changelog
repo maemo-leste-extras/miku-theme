@@ -1,0 +1,59 @@
+miku-theme (0.9) jaunty; urgency=low
+
+  * Attempted fixing the RSS widget.
+
+ -- joppu <joppu1@gmail.com>  Mon, 6 Dec 2010 2:00:00 +0200
+
+miku-theme (0.8) jaunty; urgency=low
+
+  * SMS should be finally fixed.
+
+ -- joppu <joppu1@gmail.com>  Thu, 2 Dec 2010 23:00:00 +0200
+
+miku-theme (0.7) jaunty; urgency=low
+
+  * Tweaked SMS colors.
+  * Added some copyright info.
+
+ -- joppu <joppu1@gmail.com>  Thu, 2 Dec 2010 22:00:00 +0200
+
+miku-theme (0.6) jaunty; urgency=low
+
+  * Fixed pastel colors.
+  * Fixed SMS colors.
+
+ -- joppu <joppu1@gmail.com>  Thu, 2 Dec 2010 19:00:00 +0200
+
+miku-theme (0.5) jaunty; urgency=low
+
+  * New calendar graphics.
+  * Fixed RSS widget dimensions.
+
+ -- joppu <joppu1@gmail.com>  Wed, 1 Dec 2010 14:00:00 +0200
+
+miku-theme (0.4) jaunty; urgency=low
+
+  * Bugfix release.
+
+ -- joppu <joppu1@gmail.com>  Wed, 1 Dec 2010 14:00:00 +0200
+
+miku-theme (0.3) jaunty; urgency=low
+
+  * Fixed several issues.
+
+ -- joppu <joppu1@gmail.com>  Wed, 1 Dec 2010 01:00:00 +0200
+
+miku-theme (0.2) jaunty; urgency=low
+
+  * Several bugfixes.
+  * Added wallpapers.
+  * Added modified AppMgr icons.
+  * Added new Activity Indicator.
+
+ -- joppu <joppu1@gmail.com>  Tue, 30 Nov 2010 16:00:00 +0200
+
+miku-theme (0.1) jaunty; urgency=low
+
+  * Convert into being an example.
+
+ -- joppu <joppu1@gmail.com>  Wed, 24 Nov 2010 16:36:00 +0200
