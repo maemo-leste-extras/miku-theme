@@ -1,3 +1,9 @@
+miku-theme (0.10) jaunty; urgency=low
+
+  * Initial Maemo Leste import
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Mon, 13 Apr 2020 11:48:01 +0200
+
 miku-theme (0.9) jaunty; urgency=low
 
   * Attempted fixing the RSS widget.
